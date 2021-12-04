@@ -61,7 +61,7 @@ tippe_top = """
             <freejoint/>
             <composite type="rope" count="21 1 1" spacing="0.02" offset="0 0 2">
                 <joint kind="main" damping="0.005" stiffness="0.4"/>
-                <geom type="capsule" size=".01 .015" rgba=".8 .2 .1 0.01"/>
+                <geom type="capsule" size=".01 .015" rgba=".8 .2 .1 1"/>
             </composite>
         </body>
   </worldbody>
